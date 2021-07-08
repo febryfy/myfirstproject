@@ -1,0 +1,5 @@
+http://hk-bigfile-os-mihayo.akamaized.net:80/com.miHoYo.bh3oversea/Audio/Android/AUDIO_BGM_Default.pck
+http://hk-bigfile-os-mihayo.akamaized.net:80/com.miHoYo.bh3oversea/Audio/Android/AUDIO_DLC_Default.pck
+http://hk-bigfile-os-mihayo.akamaized.net:80/com.miHoYo.bh3oversea/Audio/Android/AUDIO_Ex_Event_CN.pck
+http://hk-bigfile-os-mihayo.akamaized.net:80/com.miHoYo.bh3oversea/Audio/Android/AUDIO_Ex_Event_JP.pck
+http://hk-bigfile-os-mihayo.akamaized.net:80/com.miHoYo.bh3oversea/Audio/Android/AUDIO_Vanilla_Default.pck
